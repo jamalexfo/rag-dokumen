@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) adalah teknik yang meningkatkan akurasi dan keandalan model bahasa generatif dengan fakta-fakta yang diambil dari sumber eksternal.
+Dengan RAG, model tidak hanya mengandalkan pengetahuan yang telah dilatih sebelumnya, tetapi juga dapat mengakses informasi terkini atau spesifik domain.
+Proses RAG melibatkan dua langkah utama: pengambilan (retrieval) dokumen yang relevan dan pembuatan (generation) jawaban berdasarkan dokumen tersebut.
+RAG sangat berguna untuk aplikasi bisnis yang membutuhkan jawaban berdasarkan data internal perusahaan yang tidak diketahui oleh model publik.
+Salah satu tantangan dalam RAG adalah memastikan dokumen yang diambil benar-benar relevan dengan pertanyaan pengguna.
